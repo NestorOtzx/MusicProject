@@ -1,5 +1,5 @@
-; OM File Header - Saved 2025/10/02 17:09:05
-; (7.06 :patc (om-make-point 172 10) (om-make-point 122 156) (om-make-point 1540 565) "" 183 0 "2025/09/28 16:54:43" "2025/10/02 16:28:42")
+; OM File Header - Saved 2025/10/02 17:59:21
+; (7.06 :patc (om-make-point 172 10) (om-make-point 122 156) (om-make-point 1540 545) "" 183 0 "2025/09/28 16:54:43" "2025/10/02 16:28:42")
 ; End File Header
 ; External resources 
 ; (list (list (quote :abstraction) "#P\"C:beat.omp\""))
